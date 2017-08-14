@@ -5,4 +5,4 @@ see main in pdf
 
 ![probability](data/CodeCogsEqn(1).gif)
 
-![catjazz](data/catjazz.png)
+![catjazz](data/catjazz.jpg)
